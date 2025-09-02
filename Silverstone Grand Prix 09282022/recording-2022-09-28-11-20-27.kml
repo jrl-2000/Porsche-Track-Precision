@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>2025-09-01-22-13-49.kml</name>
+<Folder>
+<name>Silverstone</name>
+<Placemark>
+<name>Start</name>
+<Point>
+<coordinates>-1.015223,52.078812 0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Silverstone</name>
+<LineString>
+<coordinates>
+</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+</Document>
+
+</kml>

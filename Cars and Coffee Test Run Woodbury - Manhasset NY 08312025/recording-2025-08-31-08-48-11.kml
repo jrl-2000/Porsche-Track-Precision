@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>2025-09-01-22-25-10.kml</name>
+<Folder>
+<name>Woodbury - Manhasset</name>
+<Placemark>
+<name>Start</name>
+<Point>
+<coordinates>-73.477454,40.815758 0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ziel</name>
+<Point>
+<coordinates>-73.70275199999999,40.789196</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Woodbury - Manhasset</name>
+<LineString>
+<coordinates>
+</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+</Document>
+
+</kml>
