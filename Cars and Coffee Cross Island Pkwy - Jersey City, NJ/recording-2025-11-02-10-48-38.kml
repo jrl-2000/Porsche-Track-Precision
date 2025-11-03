@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>2025-11-02-20-16-46.kml</name>
+<Folder>
+<name>Tour from 02.11.2025 10:48</name>
+<Placemark>
+<name>Start</name>
+<Point>
+<coordinates>-73.75208631343283,40.75077010945274 0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ziel</name>
+<Point>
+<coordinates>-74.03318,40.719103</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Tour from 02.11.2025 10:48</name>
+<LineString>
+<coordinates>
+</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+</Document>
+
+</kml>
